@@ -1,5 +1,4 @@
 
-from msilib.schema import Error
 import unittest
 
 

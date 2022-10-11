@@ -1,8 +1,8 @@
 # 1 Hacemos un analisis de las clases 
 
-from ast import Raise
-from msilib.schema import Error
-from pkg_resources import safe_extra
+
+
+
 
 
 class Items:
